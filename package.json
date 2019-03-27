@@ -1,0 +1,15 @@
+{
+  "name": "obsidian-j-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Obsidian based theme obsidian-colors-syntax but more options like Atom Dark",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/obsidian-j-syntax",
+  "license": "GNU",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
