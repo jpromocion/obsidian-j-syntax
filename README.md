@@ -11,11 +11,11 @@ Go to Settings -> Install, search for obsidian-j-syntax in Themes and click inst
 
 ### PLSQL
 
-![PLSQL screenshot](https://github.com/jpromocion/obsidian-j-syntax/blob/master/screenshots/plsql.png)
+![PLSQL screenshot](https://raw.githubusercontent.com/jpromocion/obsidian-j-syntax/master/screenshots/plsql.png)
 
 ### Java
 
-![PLSQL screenshot](https://github.com/jpromocion/obsidian-j-syntax/blob/master/screenshots/java.png)
+![PLSQL screenshot](https://raw.githubusercontent.com/jpromocion/obsidian-j-syntax/master/screenshots/java.png)
 
 ### XML
 
