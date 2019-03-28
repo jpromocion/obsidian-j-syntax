@@ -19,4 +19,4 @@ Go to Settings -> Install, search for obsidian-j-syntax in Themes and click inst
 
 ### XML
 
-![PLSQL screenshot](https://github.com/jpromocion/obsidian-j-syntax/blob/master/screenshots/xml.png)
+![PLSQL screenshot](https://raw.githubusercontent.com/jpromocion/obsidian-j-syntax/master/screenshots/xml.png)
